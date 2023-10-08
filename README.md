@@ -1,2 +1,2 @@
 # TripleX
- A starter code project from gamedev.tv - this is themed from a Maori perspective
+ A starter code project from gamedev.tv - this is themed from a Māori perspective.
